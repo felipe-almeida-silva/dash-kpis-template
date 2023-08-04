@@ -1,0 +1,9 @@
+version: '3.11'
+
+services:
+  app:
+    build: .
+    image: dashboard-kpi:latest
+    ports:
+      - '8050:8050'
+    command: ["python3", "dash-kpis.py"]

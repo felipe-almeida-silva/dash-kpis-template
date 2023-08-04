@@ -1,0 +1,1001 @@
+Customer ID,Customer Name,Segment,Country,City,State,Region,CAC Expenses,Churned
+CUST0,Customer 0,Consumer,United States,New York,ON,West,6285,False
+CUST1,Customer 1,Corporate,Canada,Toronto,NY,North,3564,True
+CUST2,Customer 2,Consumer,United Kingdom,New York,NY,West,6241,False
+CUST3,Customer 3,Corporate,Canada,London,LDN,East,4957,False
+CUST4,Customer 4,Home Office,Canada,Toronto,ON,North,4652,False
+CUST5,Customer 5,Corporate,Canada,Toronto,ON,North,6378,False
+CUST6,Customer 6,Corporate,Canada,Toronto,NY,North,8981,False
+CUST7,Customer 7,Home Office,Canada,London,NY,East,7051,False
+CUST8,Customer 8,Consumer,United Kingdom,Toronto,LDN,West,2968,False
+CUST9,Customer 9,Home Office,Canada,Toronto,LDN,North,9238,False
+CUST10,Customer 10,Corporate,Canada,London,NY,East,4860,False
+CUST11,Customer 11,Corporate,United States,London,ON,West,5409,True
+CUST12,Customer 12,Consumer,United Kingdom,Toronto,LDN,West,9975,False
+CUST13,Customer 13,Consumer,United Kingdom,Toronto,NY,East,6691,False
+CUST14,Customer 14,Home Office,United States,London,ON,East,2860,False
+CUST15,Customer 15,Corporate,Canada,New York,LDN,North,6109,False
+CUST16,Customer 16,Home Office,United States,New York,NY,North,1793,True
+CUST17,Customer 17,Corporate,United Kingdom,Toronto,NY,East,5189,False
+CUST18,Customer 18,Home Office,Canada,Toronto,ON,North,8944,False
+CUST19,Customer 19,Home Office,United Kingdom,New York,NY,North,7434,True
+CUST20,Customer 20,Consumer,United Kingdom,London,ON,North,2061,False
+CUST21,Customer 21,Consumer,United Kingdom,New York,NY,East,2961,False
+CUST22,Customer 22,Corporate,United States,London,LDN,North,4593,False
+CUST23,Customer 23,Consumer,United Kingdom,London,ON,West,5675,True
+CUST24,Customer 24,Consumer,Canada,London,NY,West,2762,False
+CUST25,Customer 25,Home Office,Canada,London,ON,West,6140,False
+CUST26,Customer 26,Corporate,United States,New York,ON,West,8831,False
+CUST27,Customer 27,Home Office,United Kingdom,New York,LDN,West,8937,False
+CUST28,Customer 28,Home Office,Canada,Toronto,NY,North,7310,True
+CUST29,Customer 29,Corporate,United States,London,NY,West,2556,True
+CUST30,Customer 30,Home Office,United States,London,LDN,West,2786,True
+CUST31,Customer 31,Home Office,United States,New York,LDN,East,7483,False
+CUST32,Customer 32,Corporate,United States,London,NY,North,6441,False
+CUST33,Customer 33,Home Office,Canada,London,ON,North,5111,False
+CUST34,Customer 34,Home Office,Canada,London,NY,West,4619,False
+CUST35,Customer 35,Home Office,United States,London,NY,East,9228,False
+CUST36,Customer 36,Corporate,United Kingdom,Toronto,NY,East,9829,False
+CUST37,Customer 37,Corporate,United Kingdom,New York,LDN,East,9908,True
+CUST38,Customer 38,Corporate,Canada,Toronto,LDN,West,3482,False
+CUST39,Customer 39,Consumer,United Kingdom,New York,ON,North,3595,True
+CUST40,Customer 40,Home Office,United States,London,ON,West,9093,False
+CUST41,Customer 41,Corporate,Canada,London,NY,North,3766,True
+CUST42,Customer 42,Consumer,Canada,New York,LDN,West,9515,False
+CUST43,Customer 43,Corporate,Canada,New York,ON,West,7391,False
+CUST44,Customer 44,Home Office,Canada,London,ON,North,1274,False
+CUST45,Customer 45,Corporate,United States,New York,NY,West,2375,False
+CUST46,Customer 46,Consumer,Canada,New York,NY,East,5219,False
+CUST47,Customer 47,Consumer,United States,New York,NY,North,9148,False
+CUST48,Customer 48,Corporate,United States,New York,NY,North,3966,False
+CUST49,Customer 49,Consumer,United Kingdom,London,LDN,West,2014,True
+CUST50,Customer 50,Consumer,United States,London,NY,West,6585,False
+CUST51,Customer 51,Consumer,Canada,Toronto,NY,North,5780,False
+CUST52,Customer 52,Home Office,Canada,New York,ON,North,6636,False
+CUST53,Customer 53,Corporate,United States,New York,LDN,North,3526,False
+CUST54,Customer 54,Corporate,United States,New York,LDN,North,4973,False
+CUST55,Customer 55,Consumer,Canada,Toronto,ON,North,1104,False
+CUST56,Customer 56,Corporate,United Kingdom,New York,LDN,North,4086,True
+CUST57,Customer 57,Home Office,Canada,Toronto,ON,North,5757,True
+CUST58,Customer 58,Corporate,Canada,London,LDN,East,3282,False
+CUST59,Customer 59,Corporate,United Kingdom,London,NY,East,5160,True
+CUST60,Customer 60,Home Office,Canada,Toronto,LDN,East,6449,True
+CUST61,Customer 61,Corporate,United Kingdom,London,LDN,North,9338,True
+CUST62,Customer 62,Home Office,Canada,London,ON,West,3488,False
+CUST63,Customer 63,Home Office,Canada,Toronto,NY,East,1438,False
+CUST64,Customer 64,Corporate,United States,New York,LDN,East,8882,True
+CUST65,Customer 65,Consumer,United Kingdom,Toronto,LDN,North,9940,False
+CUST66,Customer 66,Home Office,United States,Toronto,NY,West,3781,True
+CUST67,Customer 67,Corporate,United States,New York,ON,West,9302,False
+CUST68,Customer 68,Consumer,Canada,Toronto,LDN,North,6508,True
+CUST69,Customer 69,Home Office,Canada,London,ON,East,3551,False
+CUST70,Customer 70,Home Office,United Kingdom,Toronto,ON,West,3517,False
+CUST71,Customer 71,Consumer,Canada,Toronto,NY,East,2530,False
+CUST72,Customer 72,Corporate,United States,New York,NY,East,9921,False
+CUST73,Customer 73,Corporate,United Kingdom,New York,NY,East,8378,False
+CUST74,Customer 74,Home Office,United States,New York,ON,North,2961,False
+CUST75,Customer 75,Corporate,Canada,New York,LDN,West,4093,False
+CUST76,Customer 76,Home Office,Canada,Toronto,LDN,North,9260,False
+CUST77,Customer 77,Home Office,Canada,New York,LDN,West,3222,False
+CUST78,Customer 78,Home Office,United Kingdom,New York,NY,West,6167,False
+CUST79,Customer 79,Home Office,Canada,New York,LDN,North,3011,False
+CUST80,Customer 80,Home Office,Canada,London,ON,West,8257,False
+CUST81,Customer 81,Corporate,United States,Toronto,NY,West,7734,False
+CUST82,Customer 82,Home Office,United Kingdom,New York,LDN,East,3295,False
+CUST83,Customer 83,Home Office,United Kingdom,New York,LDN,North,4304,False
+CUST84,Customer 84,Home Office,Canada,New York,NY,North,4901,False
+CUST85,Customer 85,Corporate,Canada,New York,ON,West,5718,False
+CUST86,Customer 86,Home Office,Canada,London,NY,East,5895,False
+CUST87,Customer 87,Consumer,Canada,London,ON,East,2381,False
+CUST88,Customer 88,Consumer,United Kingdom,London,ON,East,9891,False
+CUST89,Customer 89,Consumer,United Kingdom,New York,ON,West,9793,False
+CUST90,Customer 90,Corporate,United States,London,LDN,North,7574,False
+CUST91,Customer 91,Consumer,United Kingdom,Toronto,LDN,East,8176,False
+CUST92,Customer 92,Consumer,United Kingdom,New York,ON,East,1628,False
+CUST93,Customer 93,Corporate,Canada,London,NY,West,6187,False
+CUST94,Customer 94,Corporate,United Kingdom,Toronto,LDN,West,5806,False
+CUST95,Customer 95,Consumer,United Kingdom,New York,NY,West,3145,False
+CUST96,Customer 96,Corporate,Canada,Toronto,ON,East,9010,False
+CUST97,Customer 97,Consumer,United States,Toronto,NY,West,1719,True
+CUST98,Customer 98,Consumer,Canada,New York,NY,West,5257,True
+CUST99,Customer 99,Home Office,United Kingdom,London,ON,West,5235,True
+CUST100,Customer 100,Home Office,Canada,New York,NY,West,5498,False
+CUST101,Customer 101,Home Office,Canada,London,LDN,North,1417,True
+CUST102,Customer 102,Corporate,Canada,London,NY,West,2065,False
+CUST103,Customer 103,Consumer,United States,London,LDN,North,3426,False
+CUST104,Customer 104,Home Office,United States,Toronto,LDN,West,6247,False
+CUST105,Customer 105,Home Office,United States,Toronto,ON,North,4858,True
+CUST106,Customer 106,Consumer,Canada,New York,ON,West,9795,False
+CUST107,Customer 107,Consumer,United States,Toronto,ON,West,2023,True
+CUST108,Customer 108,Consumer,United States,Toronto,ON,North,4409,False
+CUST109,Customer 109,Corporate,United States,London,NY,West,9696,False
+CUST110,Customer 110,Corporate,Canada,New York,LDN,West,3554,False
+CUST111,Customer 111,Home Office,Canada,New York,LDN,West,8987,True
+CUST112,Customer 112,Home Office,United States,Toronto,NY,West,4082,False
+CUST113,Customer 113,Consumer,Canada,New York,ON,East,3955,False
+CUST114,Customer 114,Consumer,Canada,New York,ON,North,9231,False
+CUST115,Customer 115,Corporate,Canada,Toronto,LDN,West,8627,False
+CUST116,Customer 116,Home Office,Canada,Toronto,ON,West,6871,False
+CUST117,Customer 117,Home Office,Canada,London,NY,West,9040,False
+CUST118,Customer 118,Home Office,United Kingdom,Toronto,NY,North,4636,True
+CUST119,Customer 119,Corporate,United States,London,LDN,West,1828,False
+CUST120,Customer 120,Consumer,Canada,New York,ON,North,6547,False
+CUST121,Customer 121,Home Office,Canada,London,NY,East,2630,False
+CUST122,Customer 122,Home Office,United Kingdom,London,LDN,North,3005,False
+CUST123,Customer 123,Home Office,United Kingdom,Toronto,LDN,East,8240,False
+CUST124,Customer 124,Corporate,United States,New York,ON,North,7059,True
+CUST125,Customer 125,Consumer,United States,London,ON,West,4723,False
+CUST126,Customer 126,Home Office,United States,Toronto,LDN,West,3474,False
+CUST127,Customer 127,Consumer,United States,London,ON,North,4919,False
+CUST128,Customer 128,Consumer,Canada,New York,LDN,West,3662,False
+CUST129,Customer 129,Consumer,Canada,Toronto,ON,East,1998,False
+CUST130,Customer 130,Home Office,United States,Toronto,LDN,North,2367,False
+CUST131,Customer 131,Consumer,United States,New York,NY,West,1699,True
+CUST132,Customer 132,Home Office,Canada,Toronto,LDN,West,8720,True
+CUST133,Customer 133,Consumer,United Kingdom,Toronto,NY,North,2037,False
+CUST134,Customer 134,Corporate,United States,London,NY,West,4543,False
+CUST135,Customer 135,Consumer,United States,New York,ON,West,8585,True
+CUST136,Customer 136,Home Office,United States,Toronto,NY,East,8508,False
+CUST137,Customer 137,Home Office,United Kingdom,London,ON,East,6275,True
+CUST138,Customer 138,Corporate,United States,London,ON,North,5344,True
+CUST139,Customer 139,Consumer,United States,Toronto,NY,North,9705,True
+CUST140,Customer 140,Consumer,United Kingdom,London,LDN,North,6465,False
+CUST141,Customer 141,Consumer,United States,Toronto,LDN,East,3919,False
+CUST142,Customer 142,Corporate,United Kingdom,New York,ON,East,1103,False
+CUST143,Customer 143,Home Office,Canada,New York,LDN,North,5145,False
+CUST144,Customer 144,Consumer,United Kingdom,New York,LDN,West,2097,False
+CUST145,Customer 145,Home Office,Canada,London,ON,North,4727,True
+CUST146,Customer 146,Home Office,United States,Toronto,NY,East,2265,False
+CUST147,Customer 147,Corporate,United States,Toronto,NY,East,8651,False
+CUST148,Customer 148,Consumer,United States,Toronto,NY,East,7662,True
+CUST149,Customer 149,Corporate,Canada,New York,ON,North,7780,False
+CUST150,Customer 150,Home Office,United Kingdom,Toronto,NY,North,3134,False
+CUST151,Customer 151,Corporate,United Kingdom,Toronto,LDN,North,5910,True
+CUST152,Customer 152,Consumer,United States,New York,NY,North,6558,False
+CUST153,Customer 153,Corporate,United States,Toronto,ON,North,5876,False
+CUST154,Customer 154,Consumer,United Kingdom,Toronto,LDN,North,9830,False
+CUST155,Customer 155,Home Office,United States,Toronto,LDN,East,1045,False
+CUST156,Customer 156,Corporate,Canada,London,LDN,West,5229,False
+CUST157,Customer 157,Home Office,United States,Toronto,LDN,West,9742,True
+CUST158,Customer 158,Corporate,United Kingdom,London,LDN,East,1640,False
+CUST159,Customer 159,Corporate,Canada,Toronto,ON,West,8145,False
+CUST160,Customer 160,Corporate,United Kingdom,London,NY,East,6491,False
+CUST161,Customer 161,Corporate,United Kingdom,New York,LDN,West,2649,False
+CUST162,Customer 162,Corporate,United Kingdom,London,NY,East,4576,False
+CUST163,Customer 163,Home Office,United States,Toronto,LDN,West,2547,False
+CUST164,Customer 164,Home Office,Canada,New York,NY,East,3209,False
+CUST165,Customer 165,Consumer,United States,New York,NY,West,2758,False
+CUST166,Customer 166,Corporate,United Kingdom,New York,LDN,North,3636,False
+CUST167,Customer 167,Corporate,United States,Toronto,NY,North,3742,False
+CUST168,Customer 168,Consumer,United States,New York,NY,West,3184,False
+CUST169,Customer 169,Home Office,United Kingdom,New York,ON,East,8975,False
+CUST170,Customer 170,Corporate,United States,New York,ON,North,8700,False
+CUST171,Customer 171,Consumer,Canada,New York,ON,North,9535,False
+CUST172,Customer 172,Consumer,Canada,New York,LDN,West,3885,True
+CUST173,Customer 173,Corporate,United Kingdom,New York,ON,East,3455,True
+CUST174,Customer 174,Corporate,United States,Toronto,ON,North,7568,False
+CUST175,Customer 175,Consumer,United States,London,ON,East,3817,False
+CUST176,Customer 176,Corporate,United States,New York,NY,West,7044,True
+CUST177,Customer 177,Corporate,United States,Toronto,ON,West,8464,False
+CUST178,Customer 178,Home Office,United States,New York,ON,West,2164,False
+CUST179,Customer 179,Corporate,United States,New York,NY,West,2941,False
+CUST180,Customer 180,Home Office,United States,New York,LDN,West,9292,False
+CUST181,Customer 181,Corporate,Canada,London,NY,North,2432,False
+CUST182,Customer 182,Home Office,United States,Toronto,NY,East,9625,False
+CUST183,Customer 183,Corporate,United States,London,NY,East,3916,True
+CUST184,Customer 184,Consumer,Canada,London,NY,North,7752,False
+CUST185,Customer 185,Home Office,United Kingdom,Toronto,NY,North,3805,False
+CUST186,Customer 186,Consumer,Canada,London,LDN,North,7028,False
+CUST187,Customer 187,Corporate,United States,Toronto,LDN,West,2227,False
+CUST188,Customer 188,Home Office,United Kingdom,Toronto,NY,North,3367,False
+CUST189,Customer 189,Corporate,Canada,New York,LDN,West,2358,False
+CUST190,Customer 190,Corporate,United States,Toronto,LDN,East,3876,True
+CUST191,Customer 191,Corporate,United Kingdom,New York,LDN,West,4768,False
+CUST192,Customer 192,Corporate,United States,New York,ON,North,1544,False
+CUST193,Customer 193,Corporate,Canada,New York,ON,West,2991,False
+CUST194,Customer 194,Consumer,Canada,London,LDN,North,8276,False
+CUST195,Customer 195,Consumer,United States,New York,ON,North,3514,False
+CUST196,Customer 196,Corporate,United Kingdom,Toronto,ON,East,4764,True
+CUST197,Customer 197,Home Office,United Kingdom,New York,ON,North,2573,False
+CUST198,Customer 198,Home Office,Canada,Toronto,LDN,West,6619,False
+CUST199,Customer 199,Corporate,United States,New York,NY,North,8754,False
+CUST200,Customer 200,Home Office,United States,Toronto,NY,North,1838,True
+CUST201,Customer 201,Home Office,United Kingdom,Toronto,ON,East,8467,False
+CUST202,Customer 202,Consumer,United Kingdom,London,LDN,West,2713,False
+CUST203,Customer 203,Corporate,United States,New York,LDN,East,5062,False
+CUST204,Customer 204,Home Office,United Kingdom,New York,NY,West,7088,False
+CUST205,Customer 205,Home Office,United States,New York,ON,North,6527,True
+CUST206,Customer 206,Home Office,Canada,London,NY,North,4835,False
+CUST207,Customer 207,Consumer,United States,London,LDN,West,4026,False
+CUST208,Customer 208,Corporate,United Kingdom,New York,NY,West,8263,False
+CUST209,Customer 209,Corporate,Canada,London,LDN,West,1568,False
+CUST210,Customer 210,Consumer,United Kingdom,New York,ON,West,8705,False
+CUST211,Customer 211,Consumer,United States,Toronto,LDN,North,1287,False
+CUST212,Customer 212,Corporate,United States,New York,LDN,West,3942,False
+CUST213,Customer 213,Corporate,Canada,London,NY,West,7211,True
+CUST214,Customer 214,Consumer,United States,London,ON,North,2677,False
+CUST215,Customer 215,Consumer,United Kingdom,Toronto,LDN,West,6368,True
+CUST216,Customer 216,Corporate,United Kingdom,New York,ON,North,1154,False
+CUST217,Customer 217,Corporate,Canada,New York,ON,West,6671,True
+CUST218,Customer 218,Corporate,United Kingdom,London,LDN,North,3118,False
+CUST219,Customer 219,Home Office,Canada,London,ON,West,1113,False
+CUST220,Customer 220,Home Office,United Kingdom,New York,NY,East,3791,False
+CUST221,Customer 221,Home Office,United Kingdom,London,NY,East,4091,False
+CUST222,Customer 222,Home Office,Canada,New York,ON,East,4049,False
+CUST223,Customer 223,Consumer,Canada,London,ON,East,8974,False
+CUST224,Customer 224,Corporate,United Kingdom,London,LDN,East,9696,True
+CUST225,Customer 225,Consumer,United States,New York,ON,East,1157,False
+CUST226,Customer 226,Corporate,Canada,London,LDN,West,8590,True
+CUST227,Customer 227,Home Office,United States,Toronto,ON,East,5952,False
+CUST228,Customer 228,Home Office,Canada,Toronto,NY,East,9984,False
+CUST229,Customer 229,Home Office,Canada,London,NY,East,1330,False
+CUST230,Customer 230,Consumer,United Kingdom,London,LDN,West,5569,True
+CUST231,Customer 231,Home Office,United Kingdom,Toronto,LDN,East,4966,True
+CUST232,Customer 232,Consumer,Canada,New York,LDN,West,3009,False
+CUST233,Customer 233,Corporate,United States,New York,ON,West,4298,False
+CUST234,Customer 234,Consumer,United States,Toronto,NY,North,5368,True
+CUST235,Customer 235,Corporate,Canada,New York,LDN,North,1030,True
+CUST236,Customer 236,Corporate,Canada,New York,ON,West,9152,False
+CUST237,Customer 237,Consumer,Canada,Toronto,NY,West,8616,False
+CUST238,Customer 238,Corporate,United States,New York,LDN,West,1608,False
+CUST239,Customer 239,Corporate,Canada,New York,ON,North,4262,True
+CUST240,Customer 240,Corporate,United States,Toronto,LDN,East,2462,False
+CUST241,Customer 241,Corporate,United Kingdom,Toronto,ON,East,5269,True
+CUST242,Customer 242,Home Office,United States,Toronto,LDN,West,8500,False
+CUST243,Customer 243,Home Office,United States,New York,LDN,West,3725,False
+CUST244,Customer 244,Consumer,United Kingdom,Toronto,ON,East,5772,False
+CUST245,Customer 245,Home Office,United Kingdom,Toronto,NY,North,1986,False
+CUST246,Customer 246,Home Office,United States,Toronto,LDN,North,4081,False
+CUST247,Customer 247,Corporate,Canada,London,LDN,East,7301,False
+CUST248,Customer 248,Consumer,Canada,Toronto,NY,East,7781,False
+CUST249,Customer 249,Consumer,United Kingdom,Toronto,NY,East,2003,True
+CUST250,Customer 250,Corporate,United Kingdom,New York,ON,West,4252,False
+CUST251,Customer 251,Consumer,United States,Toronto,ON,West,4755,False
+CUST252,Customer 252,Home Office,Canada,New York,LDN,East,4272,False
+CUST253,Customer 253,Corporate,United Kingdom,Toronto,LDN,East,8491,False
+CUST254,Customer 254,Corporate,United Kingdom,Toronto,NY,East,9913,False
+CUST255,Customer 255,Home Office,United Kingdom,London,NY,West,9198,False
+CUST256,Customer 256,Consumer,Canada,Toronto,NY,North,9514,False
+CUST257,Customer 257,Corporate,Canada,Toronto,LDN,East,5250,True
+CUST258,Customer 258,Home Office,United Kingdom,Toronto,NY,East,9074,False
+CUST259,Customer 259,Consumer,Canada,New York,LDN,North,7647,False
+CUST260,Customer 260,Home Office,United States,London,NY,West,7395,False
+CUST261,Customer 261,Consumer,United Kingdom,Toronto,ON,West,3979,False
+CUST262,Customer 262,Home Office,United Kingdom,London,ON,West,4563,False
+CUST263,Customer 263,Consumer,United States,New York,LDN,West,5963,False
+CUST264,Customer 264,Corporate,United Kingdom,Toronto,NY,East,8677,True
+CUST265,Customer 265,Home Office,United States,New York,NY,West,9744,False
+CUST266,Customer 266,Consumer,United Kingdom,Toronto,NY,West,1563,False
+CUST267,Customer 267,Home Office,United Kingdom,London,NY,East,2576,False
+CUST268,Customer 268,Home Office,Canada,Toronto,LDN,East,5244,False
+CUST269,Customer 269,Consumer,United States,New York,ON,North,3167,False
+CUST270,Customer 270,Corporate,United States,London,LDN,East,4053,True
+CUST271,Customer 271,Consumer,United Kingdom,Toronto,LDN,West,1883,False
+CUST272,Customer 272,Home Office,United States,New York,LDN,West,3977,False
+CUST273,Customer 273,Corporate,United Kingdom,London,NY,West,9261,False
+CUST274,Customer 274,Corporate,United States,New York,NY,East,5425,False
+CUST275,Customer 275,Corporate,United States,Toronto,NY,East,1164,False
+CUST276,Customer 276,Corporate,Canada,London,LDN,West,1908,False
+CUST277,Customer 277,Consumer,United States,Toronto,NY,North,6273,False
+CUST278,Customer 278,Home Office,United States,Toronto,NY,North,8382,False
+CUST279,Customer 279,Consumer,Canada,Toronto,NY,North,1914,False
+CUST280,Customer 280,Consumer,Canada,New York,LDN,North,6135,False
+CUST281,Customer 281,Corporate,Canada,New York,LDN,East,7667,False
+CUST282,Customer 282,Corporate,United States,New York,LDN,East,7440,False
+CUST283,Customer 283,Corporate,Canada,London,LDN,North,2846,False
+CUST284,Customer 284,Home Office,United Kingdom,Toronto,ON,West,6320,False
+CUST285,Customer 285,Corporate,Canada,New York,ON,East,6362,False
+CUST286,Customer 286,Consumer,Canada,London,LDN,West,3852,False
+CUST287,Customer 287,Home Office,Canada,New York,LDN,East,5045,False
+CUST288,Customer 288,Home Office,United Kingdom,London,LDN,North,7081,False
+CUST289,Customer 289,Home Office,Canada,New York,NY,East,8619,False
+CUST290,Customer 290,Corporate,Canada,New York,LDN,West,2889,False
+CUST291,Customer 291,Consumer,Canada,New York,LDN,North,4250,False
+CUST292,Customer 292,Consumer,Canada,Toronto,LDN,East,9303,True
+CUST293,Customer 293,Consumer,United Kingdom,New York,NY,West,7475,False
+CUST294,Customer 294,Consumer,Canada,Toronto,LDN,West,5787,False
+CUST295,Customer 295,Corporate,United States,New York,ON,North,1826,False
+CUST296,Customer 296,Corporate,Canada,New York,ON,West,1448,False
+CUST297,Customer 297,Consumer,Canada,Toronto,NY,East,9450,False
+CUST298,Customer 298,Home Office,United States,Toronto,ON,West,9367,False
+CUST299,Customer 299,Corporate,United States,London,LDN,North,4077,False
+CUST300,Customer 300,Home Office,United Kingdom,New York,LDN,North,8309,False
+CUST301,Customer 301,Corporate,United Kingdom,London,NY,East,5972,False
+CUST302,Customer 302,Corporate,Canada,New York,NY,East,6727,False
+CUST303,Customer 303,Home Office,United Kingdom,New York,ON,West,6422,True
+CUST304,Customer 304,Corporate,United States,New York,ON,West,9738,False
+CUST305,Customer 305,Corporate,Canada,New York,LDN,East,4205,False
+CUST306,Customer 306,Consumer,United States,London,NY,East,4941,False
+CUST307,Customer 307,Corporate,United Kingdom,New York,ON,East,7447,False
+CUST308,Customer 308,Home Office,United States,New York,NY,East,1764,False
+CUST309,Customer 309,Corporate,United States,London,NY,West,4776,True
+CUST310,Customer 310,Consumer,United States,Toronto,LDN,North,6623,True
+CUST311,Customer 311,Home Office,United Kingdom,London,ON,East,4133,True
+CUST312,Customer 312,Corporate,Canada,New York,NY,West,7005,False
+CUST313,Customer 313,Home Office,United Kingdom,Toronto,NY,North,5975,False
+CUST314,Customer 314,Corporate,Canada,New York,LDN,West,8248,True
+CUST315,Customer 315,Corporate,Canada,Toronto,ON,East,4671,True
+CUST316,Customer 316,Consumer,United Kingdom,London,ON,West,3492,False
+CUST317,Customer 317,Corporate,United Kingdom,Toronto,LDN,West,7260,True
+CUST318,Customer 318,Corporate,United States,New York,NY,East,3306,True
+CUST319,Customer 319,Consumer,United States,London,NY,West,3523,True
+CUST320,Customer 320,Consumer,United Kingdom,New York,NY,West,7396,False
+CUST321,Customer 321,Home Office,United States,Toronto,NY,North,7456,True
+CUST322,Customer 322,Home Office,Canada,New York,ON,East,6714,True
+CUST323,Customer 323,Corporate,United States,New York,NY,East,1716,False
+CUST324,Customer 324,Home Office,United States,New York,NY,East,9211,False
+CUST325,Customer 325,Home Office,United Kingdom,London,ON,East,5863,True
+CUST326,Customer 326,Corporate,Canada,London,ON,West,3579,False
+CUST327,Customer 327,Consumer,United Kingdom,Toronto,ON,North,5837,False
+CUST328,Customer 328,Consumer,United Kingdom,New York,NY,North,8386,False
+CUST329,Customer 329,Consumer,United States,Toronto,NY,North,4220,False
+CUST330,Customer 330,Home Office,United Kingdom,Toronto,LDN,East,1745,False
+CUST331,Customer 331,Home Office,United States,New York,NY,North,5334,False
+CUST332,Customer 332,Home Office,United States,New York,ON,North,7867,True
+CUST333,Customer 333,Consumer,United Kingdom,New York,NY,West,8213,False
+CUST334,Customer 334,Consumer,United Kingdom,New York,LDN,East,4319,False
+CUST335,Customer 335,Home Office,Canada,New York,LDN,North,8849,False
+CUST336,Customer 336,Home Office,United Kingdom,Toronto,NY,West,1678,False
+CUST337,Customer 337,Home Office,Canada,London,NY,North,5251,True
+CUST338,Customer 338,Corporate,United Kingdom,New York,LDN,West,6117,False
+CUST339,Customer 339,Home Office,United States,Toronto,LDN,East,5363,False
+CUST340,Customer 340,Home Office,United States,London,ON,North,9677,False
+CUST341,Customer 341,Consumer,Canada,London,ON,East,2863,True
+CUST342,Customer 342,Corporate,United Kingdom,London,LDN,North,5635,False
+CUST343,Customer 343,Consumer,United States,New York,NY,North,4925,True
+CUST344,Customer 344,Corporate,United Kingdom,London,LDN,North,5927,False
+CUST345,Customer 345,Corporate,United States,New York,LDN,East,6067,False
+CUST346,Customer 346,Consumer,Canada,New York,NY,North,4370,False
+CUST347,Customer 347,Corporate,United States,Toronto,NY,East,3423,False
+CUST348,Customer 348,Corporate,United States,London,LDN,West,9233,False
+CUST349,Customer 349,Corporate,United States,Toronto,NY,North,1486,False
+CUST350,Customer 350,Home Office,United Kingdom,Toronto,LDN,East,1501,False
+CUST351,Customer 351,Corporate,United Kingdom,London,NY,North,2376,False
+CUST352,Customer 352,Consumer,Canada,Toronto,NY,East,2683,False
+CUST353,Customer 353,Consumer,Canada,Toronto,NY,East,7055,False
+CUST354,Customer 354,Corporate,Canada,Toronto,LDN,West,9130,False
+CUST355,Customer 355,Corporate,United Kingdom,London,NY,East,3466,True
+CUST356,Customer 356,Home Office,United Kingdom,New York,LDN,East,5270,False
+CUST357,Customer 357,Consumer,Canada,London,NY,West,9088,False
+CUST358,Customer 358,Home Office,United Kingdom,New York,LDN,West,3017,True
+CUST359,Customer 359,Consumer,United States,Toronto,NY,West,3466,False
+CUST360,Customer 360,Corporate,United Kingdom,Toronto,NY,East,6518,False
+CUST361,Customer 361,Home Office,Canada,London,LDN,East,9853,False
+CUST362,Customer 362,Home Office,Canada,Toronto,NY,North,2985,False
+CUST363,Customer 363,Home Office,United Kingdom,Toronto,LDN,East,2654,False
+CUST364,Customer 364,Corporate,United States,London,LDN,East,7284,True
+CUST365,Customer 365,Corporate,United Kingdom,Toronto,ON,West,2707,False
+CUST366,Customer 366,Consumer,United States,London,LDN,East,5927,False
+CUST367,Customer 367,Home Office,United States,London,NY,West,5643,False
+CUST368,Customer 368,Corporate,United Kingdom,Toronto,ON,West,3151,True
+CUST369,Customer 369,Consumer,United Kingdom,New York,ON,East,6825,False
+CUST370,Customer 370,Consumer,Canada,London,NY,East,8546,False
+CUST371,Customer 371,Home Office,United Kingdom,Toronto,NY,East,8179,False
+CUST372,Customer 372,Home Office,Canada,New York,NY,North,7551,False
+CUST373,Customer 373,Home Office,United States,London,ON,North,3108,False
+CUST374,Customer 374,Home Office,United States,London,NY,North,6345,True
+CUST375,Customer 375,Consumer,United Kingdom,London,ON,North,5313,False
+CUST376,Customer 376,Corporate,United States,New York,LDN,East,2458,False
+CUST377,Customer 377,Consumer,Canada,London,NY,North,5507,False
+CUST378,Customer 378,Consumer,Canada,London,NY,North,9437,True
+CUST379,Customer 379,Home Office,Canada,New York,NY,East,3081,False
+CUST380,Customer 380,Consumer,United States,London,LDN,West,3247,False
+CUST381,Customer 381,Home Office,United Kingdom,Toronto,LDN,North,9742,False
+CUST382,Customer 382,Home Office,Canada,Toronto,ON,East,4573,True
+CUST383,Customer 383,Corporate,United States,New York,NY,East,8265,False
+CUST384,Customer 384,Consumer,United Kingdom,New York,LDN,North,6327,False
+CUST385,Customer 385,Consumer,Canada,Toronto,NY,East,8318,False
+CUST386,Customer 386,Consumer,Canada,London,NY,West,8015,False
+CUST387,Customer 387,Consumer,United States,London,ON,West,1922,False
+CUST388,Customer 388,Home Office,United States,Toronto,LDN,East,5280,False
+CUST389,Customer 389,Consumer,Canada,London,ON,West,1575,False
+CUST390,Customer 390,Home Office,United States,New York,LDN,East,4272,False
+CUST391,Customer 391,Consumer,United Kingdom,New York,ON,West,6599,False
+CUST392,Customer 392,Corporate,United Kingdom,London,NY,North,2363,False
+CUST393,Customer 393,Home Office,United States,London,NY,North,3245,False
+CUST394,Customer 394,Corporate,United States,New York,ON,East,5472,True
+CUST395,Customer 395,Home Office,United States,Toronto,ON,East,1189,False
+CUST396,Customer 396,Consumer,Canada,London,LDN,West,3118,False
+CUST397,Customer 397,Consumer,United Kingdom,Toronto,LDN,West,7643,False
+CUST398,Customer 398,Consumer,United Kingdom,New York,LDN,East,5400,False
+CUST399,Customer 399,Consumer,United Kingdom,London,NY,North,4246,False
+CUST400,Customer 400,Corporate,United States,New York,NY,East,6414,False
+CUST401,Customer 401,Consumer,United Kingdom,New York,LDN,North,6975,False
+CUST402,Customer 402,Consumer,United Kingdom,London,ON,North,8171,False
+CUST403,Customer 403,Home Office,United Kingdom,London,NY,North,7359,False
+CUST404,Customer 404,Corporate,United Kingdom,London,LDN,East,2049,False
+CUST405,Customer 405,Corporate,United Kingdom,New York,ON,East,8157,False
+CUST406,Customer 406,Consumer,United Kingdom,London,NY,North,8493,True
+CUST407,Customer 407,Home Office,Canada,New York,LDN,North,4112,False
+CUST408,Customer 408,Corporate,United Kingdom,New York,LDN,North,7857,False
+CUST409,Customer 409,Corporate,Canada,Toronto,LDN,West,5623,False
+CUST410,Customer 410,Home Office,Canada,Toronto,ON,East,2476,False
+CUST411,Customer 411,Corporate,Canada,London,LDN,North,6848,False
+CUST412,Customer 412,Corporate,United Kingdom,London,LDN,West,4369,False
+CUST413,Customer 413,Consumer,United Kingdom,Toronto,LDN,East,1909,False
+CUST414,Customer 414,Consumer,United Kingdom,London,ON,East,8877,False
+CUST415,Customer 415,Home Office,United Kingdom,New York,NY,East,9611,False
+CUST416,Customer 416,Corporate,United States,Toronto,NY,East,9202,True
+CUST417,Customer 417,Consumer,United Kingdom,New York,LDN,East,1504,False
+CUST418,Customer 418,Corporate,Canada,Toronto,ON,West,1793,False
+CUST419,Customer 419,Consumer,Canada,New York,LDN,East,2929,False
+CUST420,Customer 420,Consumer,United Kingdom,New York,ON,North,8324,False
+CUST421,Customer 421,Consumer,United States,New York,NY,West,4955,False
+CUST422,Customer 422,Home Office,Canada,New York,NY,East,6519,False
+CUST423,Customer 423,Consumer,Canada,London,ON,East,8945,False
+CUST424,Customer 424,Home Office,Canada,London,NY,East,6939,False
+CUST425,Customer 425,Home Office,United Kingdom,Toronto,ON,North,5477,True
+CUST426,Customer 426,Home Office,United States,Toronto,NY,North,4832,True
+CUST427,Customer 427,Home Office,United Kingdom,London,ON,East,4777,False
+CUST428,Customer 428,Consumer,United Kingdom,London,ON,East,8428,False
+CUST429,Customer 429,Home Office,Canada,Toronto,ON,West,2239,True
+CUST430,Customer 430,Home Office,Canada,London,ON,North,6342,False
+CUST431,Customer 431,Consumer,Canada,New York,NY,West,2702,False
+CUST432,Customer 432,Consumer,United States,Toronto,ON,West,2336,False
+CUST433,Customer 433,Corporate,United Kingdom,London,LDN,North,5956,False
+CUST434,Customer 434,Consumer,United Kingdom,Toronto,NY,East,7474,False
+CUST435,Customer 435,Home Office,United States,London,NY,West,6070,False
+CUST436,Customer 436,Corporate,Canada,London,ON,East,9772,False
+CUST437,Customer 437,Corporate,United Kingdom,New York,ON,West,3606,True
+CUST438,Customer 438,Corporate,United States,New York,LDN,North,6278,False
+CUST439,Customer 439,Consumer,United Kingdom,Toronto,NY,North,7857,False
+CUST440,Customer 440,Consumer,United Kingdom,Toronto,ON,North,1828,True
+CUST441,Customer 441,Corporate,Canada,Toronto,NY,East,6113,False
+CUST442,Customer 442,Home Office,United Kingdom,Toronto,NY,North,8549,False
+CUST443,Customer 443,Consumer,Canada,New York,LDN,West,8769,False
+CUST444,Customer 444,Consumer,Canada,New York,ON,East,7617,True
+CUST445,Customer 445,Corporate,United States,London,LDN,North,1187,False
+CUST446,Customer 446,Corporate,United States,London,ON,North,4850,False
+CUST447,Customer 447,Consumer,United States,New York,LDN,East,3571,False
+CUST448,Customer 448,Consumer,Canada,Toronto,ON,East,3579,True
+CUST449,Customer 449,Consumer,Canada,New York,NY,North,9929,False
+CUST450,Customer 450,Consumer,Canada,New York,NY,North,3656,True
+CUST451,Customer 451,Home Office,United States,New York,NY,West,7597,True
+CUST452,Customer 452,Consumer,United Kingdom,Toronto,NY,North,4114,True
+CUST453,Customer 453,Home Office,Canada,London,ON,West,4038,False
+CUST454,Customer 454,Consumer,United States,New York,NY,East,2869,False
+CUST455,Customer 455,Corporate,United States,Toronto,LDN,West,2548,False
+CUST456,Customer 456,Home Office,United States,Toronto,LDN,East,9729,False
+CUST457,Customer 457,Home Office,Canada,New York,NY,North,8865,False
+CUST458,Customer 458,Consumer,United States,New York,NY,North,3291,True
+CUST459,Customer 459,Home Office,United States,New York,NY,West,7093,False
+CUST460,Customer 460,Home Office,Canada,Toronto,NY,East,5327,False
+CUST461,Customer 461,Consumer,United Kingdom,Toronto,LDN,West,3418,True
+CUST462,Customer 462,Corporate,Canada,Toronto,LDN,East,9725,False
+CUST463,Customer 463,Consumer,United States,New York,NY,West,7061,False
+CUST464,Customer 464,Corporate,United States,Toronto,ON,North,6884,False
+CUST465,Customer 465,Home Office,United States,New York,NY,West,3902,True
+CUST466,Customer 466,Consumer,United Kingdom,Toronto,NY,West,8004,False
+CUST467,Customer 467,Consumer,United States,New York,NY,North,3847,False
+CUST468,Customer 468,Home Office,United Kingdom,London,ON,North,5203,False
+CUST469,Customer 469,Consumer,United States,New York,LDN,North,5986,False
+CUST470,Customer 470,Home Office,Canada,New York,NY,East,5193,False
+CUST471,Customer 471,Consumer,United States,Toronto,ON,West,5674,False
+CUST472,Customer 472,Home Office,United Kingdom,New York,NY,North,6019,False
+CUST473,Customer 473,Home Office,United Kingdom,Toronto,LDN,North,1957,True
+CUST474,Customer 474,Corporate,United States,Toronto,NY,North,6290,False
+CUST475,Customer 475,Corporate,United States,Toronto,NY,West,5226,False
+CUST476,Customer 476,Home Office,Canada,London,ON,East,5941,False
+CUST477,Customer 477,Consumer,United Kingdom,New York,NY,West,2106,False
+CUST478,Customer 478,Corporate,United Kingdom,Toronto,NY,East,6163,False
+CUST479,Customer 479,Corporate,United Kingdom,Toronto,NY,West,8802,False
+CUST480,Customer 480,Home Office,United Kingdom,London,LDN,West,9116,False
+CUST481,Customer 481,Corporate,United States,New York,LDN,North,6356,False
+CUST482,Customer 482,Corporate,United Kingdom,New York,ON,North,7498,False
+CUST483,Customer 483,Consumer,Canada,London,NY,East,5445,False
+CUST484,Customer 484,Consumer,United States,London,LDN,East,4357,False
+CUST485,Customer 485,Consumer,United States,New York,ON,North,1307,False
+CUST486,Customer 486,Consumer,United States,London,NY,West,5519,False
+CUST487,Customer 487,Consumer,United Kingdom,Toronto,LDN,East,4775,False
+CUST488,Customer 488,Corporate,United Kingdom,London,NY,North,6416,False
+CUST489,Customer 489,Consumer,United States,Toronto,LDN,North,9589,False
+CUST490,Customer 490,Home Office,Canada,London,NY,East,8682,False
+CUST491,Customer 491,Home Office,United Kingdom,Toronto,ON,West,4773,True
+CUST492,Customer 492,Home Office,United States,London,ON,North,5912,True
+CUST493,Customer 493,Home Office,United Kingdom,New York,LDN,North,2686,False
+CUST494,Customer 494,Home Office,United States,New York,NY,West,4952,False
+CUST495,Customer 495,Home Office,Canada,New York,NY,East,7031,False
+CUST496,Customer 496,Consumer,United States,New York,NY,West,6188,False
+CUST497,Customer 497,Consumer,United States,London,LDN,East,3652,False
+CUST498,Customer 498,Home Office,United Kingdom,Toronto,NY,West,5478,True
+CUST499,Customer 499,Home Office,United Kingdom,New York,ON,North,6644,False
+CUST500,Customer 500,Home Office,United Kingdom,London,LDN,North,3165,False
+CUST501,Customer 501,Home Office,Canada,New York,NY,North,8066,False
+CUST502,Customer 502,Home Office,Canada,Toronto,NY,West,2298,False
+CUST503,Customer 503,Home Office,United Kingdom,New York,ON,East,3702,False
+CUST504,Customer 504,Consumer,Canada,Toronto,LDN,North,2098,False
+CUST505,Customer 505,Home Office,Canada,London,NY,West,7936,True
+CUST506,Customer 506,Consumer,Canada,New York,LDN,West,2314,False
+CUST507,Customer 507,Consumer,Canada,New York,NY,East,7225,False
+CUST508,Customer 508,Corporate,Canada,New York,NY,North,1573,True
+CUST509,Customer 509,Corporate,Canada,New York,ON,North,2036,False
+CUST510,Customer 510,Home Office,Canada,London,NY,East,2252,False
+CUST511,Customer 511,Consumer,Canada,Toronto,NY,East,5748,True
+CUST512,Customer 512,Home Office,Canada,Toronto,LDN,North,5591,False
+CUST513,Customer 513,Corporate,United Kingdom,London,LDN,North,7095,False
+CUST514,Customer 514,Consumer,United Kingdom,Toronto,NY,West,5347,False
+CUST515,Customer 515,Consumer,United States,New York,LDN,East,5427,False
+CUST516,Customer 516,Home Office,United Kingdom,London,ON,West,7913,False
+CUST517,Customer 517,Corporate,Canada,London,LDN,West,2498,False
+CUST518,Customer 518,Corporate,United Kingdom,London,ON,East,1102,False
+CUST519,Customer 519,Consumer,United Kingdom,Toronto,LDN,East,3445,True
+CUST520,Customer 520,Home Office,United States,London,LDN,West,8843,False
+CUST521,Customer 521,Consumer,United States,New York,LDN,West,7760,False
+CUST522,Customer 522,Home Office,United States,New York,NY,East,1153,False
+CUST523,Customer 523,Home Office,United States,New York,NY,North,4906,False
+CUST524,Customer 524,Consumer,United Kingdom,London,LDN,West,5366,False
+CUST525,Customer 525,Consumer,Canada,London,LDN,West,6533,False
+CUST526,Customer 526,Corporate,Canada,London,LDN,North,6144,False
+CUST527,Customer 527,Consumer,Canada,New York,ON,North,2990,False
+CUST528,Customer 528,Home Office,United States,London,LDN,East,3006,False
+CUST529,Customer 529,Home Office,Canada,New York,LDN,East,9746,False
+CUST530,Customer 530,Corporate,Canada,Toronto,NY,East,5263,False
+CUST531,Customer 531,Consumer,United Kingdom,New York,NY,West,7130,False
+CUST532,Customer 532,Corporate,Canada,New York,ON,North,4738,False
+CUST533,Customer 533,Home Office,United States,London,ON,North,7494,False
+CUST534,Customer 534,Consumer,United Kingdom,New York,LDN,North,1229,False
+CUST535,Customer 535,Corporate,Canada,London,LDN,East,3419,False
+CUST536,Customer 536,Home Office,Canada,Toronto,LDN,West,9383,True
+CUST537,Customer 537,Consumer,United Kingdom,Toronto,LDN,East,8547,False
+CUST538,Customer 538,Consumer,United States,Toronto,NY,North,7612,False
+CUST539,Customer 539,Consumer,Canada,London,NY,East,6108,False
+CUST540,Customer 540,Home Office,United States,Toronto,LDN,West,7666,False
+CUST541,Customer 541,Home Office,Canada,Toronto,NY,North,9814,False
+CUST542,Customer 542,Corporate,United Kingdom,New York,ON,East,5158,False
+CUST543,Customer 543,Corporate,United Kingdom,London,NY,East,7650,False
+CUST544,Customer 544,Home Office,United Kingdom,Toronto,LDN,East,5977,False
+CUST545,Customer 545,Corporate,United Kingdom,New York,NY,East,3435,False
+CUST546,Customer 546,Consumer,United Kingdom,London,NY,East,7214,False
+CUST547,Customer 547,Consumer,Canada,Toronto,LDN,North,8576,True
+CUST548,Customer 548,Consumer,United States,London,LDN,West,6121,False
+CUST549,Customer 549,Home Office,United States,London,ON,East,5993,True
+CUST550,Customer 550,Corporate,United States,New York,LDN,North,9872,False
+CUST551,Customer 551,Consumer,United Kingdom,Toronto,ON,North,7500,False
+CUST552,Customer 552,Home Office,United States,Toronto,NY,West,7568,False
+CUST553,Customer 553,Home Office,Canada,New York,NY,West,4282,False
+CUST554,Customer 554,Corporate,Canada,New York,NY,East,8921,False
+CUST555,Customer 555,Home Office,United States,London,NY,West,1650,False
+CUST556,Customer 556,Consumer,United Kingdom,New York,LDN,West,7908,True
+CUST557,Customer 557,Consumer,United Kingdom,New York,NY,West,2381,False
+CUST558,Customer 558,Corporate,United States,New York,LDN,East,1737,True
+CUST559,Customer 559,Corporate,Canada,Toronto,NY,North,7744,False
+CUST560,Customer 560,Corporate,United Kingdom,London,LDN,East,9167,False
+CUST561,Customer 561,Home Office,Canada,New York,ON,East,1521,False
+CUST562,Customer 562,Consumer,United States,London,ON,North,4664,False
+CUST563,Customer 563,Corporate,Canada,New York,LDN,East,9034,True
+CUST564,Customer 564,Home Office,United States,London,NY,East,9380,False
+CUST565,Customer 565,Corporate,United States,London,LDN,West,1573,False
+CUST566,Customer 566,Consumer,Canada,London,LDN,North,7226,False
+CUST567,Customer 567,Corporate,Canada,London,ON,West,3537,False
+CUST568,Customer 568,Corporate,Canada,London,NY,East,2055,True
+CUST569,Customer 569,Home Office,United States,London,NY,North,4896,False
+CUST570,Customer 570,Consumer,United States,Toronto,LDN,West,4121,True
+CUST571,Customer 571,Corporate,Canada,New York,LDN,West,6714,True
+CUST572,Customer 572,Home Office,Canada,Toronto,NY,North,3503,True
+CUST573,Customer 573,Corporate,United Kingdom,London,LDN,West,7743,False
+CUST574,Customer 574,Consumer,Canada,New York,ON,North,5431,False
+CUST575,Customer 575,Home Office,United States,New York,ON,West,5778,False
+CUST576,Customer 576,Consumer,United Kingdom,New York,LDN,North,5599,False
+CUST577,Customer 577,Home Office,United States,New York,ON,North,6945,False
+CUST578,Customer 578,Consumer,United States,New York,ON,North,3842,False
+CUST579,Customer 579,Consumer,United Kingdom,Toronto,ON,East,1433,False
+CUST580,Customer 580,Home Office,Canada,Toronto,NY,North,6684,True
+CUST581,Customer 581,Home Office,United Kingdom,Toronto,NY,East,3003,False
+CUST582,Customer 582,Home Office,United Kingdom,New York,NY,West,2655,True
+CUST583,Customer 583,Corporate,United Kingdom,Toronto,NY,East,2995,False
+CUST584,Customer 584,Home Office,United States,London,NY,North,3612,False
+CUST585,Customer 585,Corporate,United States,Toronto,NY,West,7460,False
+CUST586,Customer 586,Corporate,United States,Toronto,ON,North,6761,False
+CUST587,Customer 587,Home Office,United Kingdom,Toronto,NY,North,8400,False
+CUST588,Customer 588,Corporate,Canada,New York,ON,East,5607,False
+CUST589,Customer 589,Home Office,Canada,London,LDN,West,6302,False
+CUST590,Customer 590,Home Office,Canada,Toronto,NY,North,2715,False
+CUST591,Customer 591,Home Office,Canada,Toronto,LDN,North,8498,True
+CUST592,Customer 592,Home Office,United States,London,ON,East,1592,False
+CUST593,Customer 593,Home Office,United Kingdom,Toronto,NY,West,8417,False
+CUST594,Customer 594,Corporate,United Kingdom,Toronto,LDN,East,8932,False
+CUST595,Customer 595,Consumer,United Kingdom,London,ON,North,7444,False
+CUST596,Customer 596,Consumer,United States,New York,ON,North,4402,True
+CUST597,Customer 597,Consumer,United States,Toronto,ON,East,1056,True
+CUST598,Customer 598,Corporate,United States,Toronto,ON,West,3924,False
+CUST599,Customer 599,Consumer,United Kingdom,London,ON,West,5584,True
+CUST600,Customer 600,Home Office,United States,London,ON,West,7790,False
+CUST601,Customer 601,Consumer,United Kingdom,London,ON,West,9270,False
+CUST602,Customer 602,Corporate,Canada,New York,NY,East,6954,False
+CUST603,Customer 603,Consumer,United States,Toronto,LDN,East,9259,False
+CUST604,Customer 604,Corporate,United States,New York,NY,North,3785,False
+CUST605,Customer 605,Consumer,Canada,London,NY,East,3849,False
+CUST606,Customer 606,Corporate,Canada,Toronto,LDN,East,8070,False
+CUST607,Customer 607,Corporate,United Kingdom,London,ON,East,8375,True
+CUST608,Customer 608,Corporate,United States,London,LDN,East,5755,False
+CUST609,Customer 609,Corporate,Canada,London,ON,East,6000,False
+CUST610,Customer 610,Corporate,Canada,Toronto,LDN,East,7412,False
+CUST611,Customer 611,Consumer,United States,London,ON,North,8185,False
+CUST612,Customer 612,Corporate,United Kingdom,London,ON,East,5832,True
+CUST613,Customer 613,Consumer,Canada,New York,NY,North,8848,True
+CUST614,Customer 614,Consumer,United Kingdom,London,ON,East,5484,False
+CUST615,Customer 615,Corporate,United States,London,ON,North,3787,False
+CUST616,Customer 616,Home Office,United States,London,NY,West,8882,False
+CUST617,Customer 617,Consumer,Canada,London,LDN,North,4181,False
+CUST618,Customer 618,Corporate,Canada,Toronto,NY,West,5391,False
+CUST619,Customer 619,Home Office,United States,New York,LDN,North,5672,False
+CUST620,Customer 620,Consumer,Canada,New York,ON,West,1722,True
+CUST621,Customer 621,Consumer,United States,New York,NY,North,8620,True
+CUST622,Customer 622,Consumer,Canada,London,LDN,North,7164,False
+CUST623,Customer 623,Corporate,United Kingdom,New York,ON,West,9455,False
+CUST624,Customer 624,Corporate,United Kingdom,Toronto,NY,North,3160,False
+CUST625,Customer 625,Home Office,United States,London,NY,West,3068,False
+CUST626,Customer 626,Home Office,United Kingdom,Toronto,LDN,West,7132,True
+CUST627,Customer 627,Corporate,United Kingdom,Toronto,ON,North,8964,False
+CUST628,Customer 628,Home Office,Canada,Toronto,LDN,North,4262,False
+CUST629,Customer 629,Home Office,United States,London,LDN,North,4763,False
+CUST630,Customer 630,Corporate,United Kingdom,Toronto,ON,East,2555,False
+CUST631,Customer 631,Home Office,Canada,London,NY,East,8928,False
+CUST632,Customer 632,Corporate,Canada,New York,ON,East,2776,False
+CUST633,Customer 633,Home Office,Canada,London,NY,West,7361,False
+CUST634,Customer 634,Consumer,Canada,New York,NY,West,1655,False
+CUST635,Customer 635,Home Office,United Kingdom,Toronto,NY,North,1497,False
+CUST636,Customer 636,Corporate,Canada,London,ON,North,2996,False
+CUST637,Customer 637,Consumer,Canada,London,NY,West,8572,True
+CUST638,Customer 638,Corporate,United Kingdom,Toronto,NY,North,1618,False
+CUST639,Customer 639,Consumer,United Kingdom,New York,NY,East,7255,True
+CUST640,Customer 640,Consumer,Canada,New York,ON,East,9981,False
+CUST641,Customer 641,Consumer,United States,New York,ON,East,2516,False
+CUST642,Customer 642,Home Office,United States,Toronto,LDN,North,1260,False
+CUST643,Customer 643,Corporate,United Kingdom,London,ON,West,9765,False
+CUST644,Customer 644,Corporate,United States,New York,NY,West,8465,False
+CUST645,Customer 645,Home Office,United States,Toronto,ON,West,5015,False
+CUST646,Customer 646,Consumer,United Kingdom,London,NY,North,3542,True
+CUST647,Customer 647,Home Office,United Kingdom,New York,LDN,West,9011,False
+CUST648,Customer 648,Corporate,United States,London,NY,West,6891,False
+CUST649,Customer 649,Corporate,United Kingdom,Toronto,LDN,East,4373,True
+CUST650,Customer 650,Corporate,Canada,Toronto,NY,North,8820,True
+CUST651,Customer 651,Consumer,Canada,New York,ON,North,1542,False
+CUST652,Customer 652,Consumer,United Kingdom,New York,ON,East,6388,False
+CUST653,Customer 653,Corporate,Canada,Toronto,LDN,North,5154,False
+CUST654,Customer 654,Consumer,United Kingdom,New York,LDN,East,6284,False
+CUST655,Customer 655,Home Office,United States,New York,ON,East,1301,False
+CUST656,Customer 656,Corporate,United Kingdom,London,LDN,West,3220,True
+CUST657,Customer 657,Corporate,Canada,New York,NY,East,7034,False
+CUST658,Customer 658,Consumer,United States,Toronto,ON,East,4593,False
+CUST659,Customer 659,Corporate,United States,Toronto,NY,West,2035,False
+CUST660,Customer 660,Home Office,Canada,Toronto,NY,East,2817,False
+CUST661,Customer 661,Consumer,United States,Toronto,ON,West,5544,False
+CUST662,Customer 662,Consumer,Canada,New York,NY,North,3603,False
+CUST663,Customer 663,Consumer,United Kingdom,London,LDN,North,4428,False
+CUST664,Customer 664,Consumer,Canada,Toronto,NY,East,1207,False
+CUST665,Customer 665,Home Office,United States,New York,ON,North,5632,False
+CUST666,Customer 666,Corporate,Canada,London,ON,East,7029,False
+CUST667,Customer 667,Home Office,United Kingdom,London,LDN,West,7817,True
+CUST668,Customer 668,Home Office,Canada,Toronto,LDN,North,5360,False
+CUST669,Customer 669,Home Office,United States,New York,NY,West,4963,False
+CUST670,Customer 670,Consumer,United States,Toronto,LDN,East,1090,False
+CUST671,Customer 671,Corporate,United States,London,ON,West,8522,False
+CUST672,Customer 672,Corporate,United Kingdom,New York,NY,West,7890,False
+CUST673,Customer 673,Corporate,United Kingdom,London,NY,West,6938,False
+CUST674,Customer 674,Home Office,United Kingdom,Toronto,LDN,North,5165,False
+CUST675,Customer 675,Corporate,United Kingdom,Toronto,ON,East,1156,False
+CUST676,Customer 676,Corporate,Canada,New York,NY,West,5137,False
+CUST677,Customer 677,Corporate,United States,London,LDN,West,8602,False
+CUST678,Customer 678,Consumer,United Kingdom,New York,LDN,East,4450,False
+CUST679,Customer 679,Home Office,United States,London,LDN,East,4147,False
+CUST680,Customer 680,Corporate,United States,Toronto,LDN,West,6500,False
+CUST681,Customer 681,Home Office,United Kingdom,Toronto,NY,North,4969,False
+CUST682,Customer 682,Consumer,Canada,New York,LDN,North,5942,True
+CUST683,Customer 683,Corporate,United Kingdom,New York,LDN,East,3781,False
+CUST684,Customer 684,Corporate,Canada,New York,ON,East,2522,False
+CUST685,Customer 685,Corporate,United Kingdom,Toronto,NY,East,8679,True
+CUST686,Customer 686,Home Office,United Kingdom,Toronto,NY,North,5622,False
+CUST687,Customer 687,Corporate,United Kingdom,New York,LDN,West,2131,False
+CUST688,Customer 688,Consumer,United Kingdom,New York,NY,West,7556,False
+CUST689,Customer 689,Corporate,United Kingdom,London,LDN,West,3621,False
+CUST690,Customer 690,Consumer,Canada,New York,NY,North,4654,False
+CUST691,Customer 691,Home Office,United Kingdom,Toronto,NY,North,1767,True
+CUST692,Customer 692,Consumer,United Kingdom,London,LDN,North,4757,False
+CUST693,Customer 693,Consumer,Canada,Toronto,ON,North,9837,False
+CUST694,Customer 694,Corporate,United States,New York,ON,North,7027,True
+CUST695,Customer 695,Corporate,United Kingdom,New York,LDN,East,9714,False
+CUST696,Customer 696,Corporate,United Kingdom,London,ON,East,3809,False
+CUST697,Customer 697,Consumer,United Kingdom,New York,LDN,North,1845,False
+CUST698,Customer 698,Corporate,United Kingdom,London,NY,East,1710,False
+CUST699,Customer 699,Consumer,United States,London,NY,West,7979,False
+CUST700,Customer 700,Corporate,United Kingdom,New York,LDN,West,8136,False
+CUST701,Customer 701,Home Office,United States,Toronto,NY,North,5271,False
+CUST702,Customer 702,Consumer,United States,London,ON,East,7323,False
+CUST703,Customer 703,Consumer,Canada,London,ON,North,4468,False
+CUST704,Customer 704,Corporate,United States,New York,NY,East,3290,False
+CUST705,Customer 705,Consumer,United States,New York,ON,West,8079,True
+CUST706,Customer 706,Consumer,United States,Toronto,LDN,North,9436,False
+CUST707,Customer 707,Home Office,United States,Toronto,ON,East,4900,False
+CUST708,Customer 708,Home Office,United Kingdom,London,LDN,North,2623,False
+CUST709,Customer 709,Corporate,United Kingdom,London,LDN,North,2644,False
+CUST710,Customer 710,Home Office,Canada,Toronto,NY,East,5508,False
+CUST711,Customer 711,Consumer,United States,London,LDN,West,8811,True
+CUST712,Customer 712,Corporate,Canada,New York,ON,North,8773,False
+CUST713,Customer 713,Corporate,Canada,New York,NY,East,7266,False
+CUST714,Customer 714,Home Office,United Kingdom,New York,ON,North,3214,False
+CUST715,Customer 715,Corporate,United Kingdom,New York,LDN,East,8467,False
+CUST716,Customer 716,Corporate,United Kingdom,London,LDN,North,6080,False
+CUST717,Customer 717,Consumer,Canada,New York,LDN,West,9260,True
+CUST718,Customer 718,Home Office,United Kingdom,New York,LDN,North,3363,False
+CUST719,Customer 719,Consumer,Canada,Toronto,LDN,West,8443,False
+CUST720,Customer 720,Consumer,United States,New York,ON,West,8659,False
+CUST721,Customer 721,Corporate,United Kingdom,London,ON,North,2978,False
+CUST722,Customer 722,Corporate,Canada,New York,NY,North,7659,False
+CUST723,Customer 723,Consumer,United Kingdom,Toronto,NY,North,4981,False
+CUST724,Customer 724,Consumer,United States,New York,LDN,North,2696,False
+CUST725,Customer 725,Home Office,United States,New York,NY,West,9321,False
+CUST726,Customer 726,Home Office,United States,Toronto,ON,North,4706,False
+CUST727,Customer 727,Consumer,United Kingdom,London,ON,West,7735,True
+CUST728,Customer 728,Corporate,United Kingdom,London,ON,North,5093,False
+CUST729,Customer 729,Consumer,United States,Toronto,LDN,North,8186,False
+CUST730,Customer 730,Corporate,United Kingdom,Toronto,NY,North,4756,False
+CUST731,Customer 731,Consumer,United States,Toronto,LDN,East,3686,False
+CUST732,Customer 732,Corporate,Canada,Toronto,ON,East,3866,False
+CUST733,Customer 733,Corporate,United Kingdom,Toronto,ON,West,5102,True
+CUST734,Customer 734,Home Office,United States,New York,NY,East,2610,False
+CUST735,Customer 735,Corporate,United Kingdom,New York,NY,East,1245,False
+CUST736,Customer 736,Home Office,Canada,Toronto,NY,West,4571,False
+CUST737,Customer 737,Corporate,United Kingdom,London,NY,East,2061,False
+CUST738,Customer 738,Home Office,United States,London,NY,North,1064,False
+CUST739,Customer 739,Corporate,United States,Toronto,ON,North,2965,False
+CUST740,Customer 740,Corporate,United Kingdom,London,NY,West,8908,True
+CUST741,Customer 741,Corporate,Canada,London,ON,North,1467,False
+CUST742,Customer 742,Home Office,United Kingdom,Toronto,LDN,West,3817,False
+CUST743,Customer 743,Corporate,Canada,London,ON,North,2964,False
+CUST744,Customer 744,Home Office,United Kingdom,New York,LDN,West,6550,False
+CUST745,Customer 745,Home Office,United States,New York,ON,West,6335,True
+CUST746,Customer 746,Consumer,United Kingdom,New York,NY,East,5193,False
+CUST747,Customer 747,Consumer,Canada,New York,NY,East,5363,False
+CUST748,Customer 748,Corporate,Canada,Toronto,ON,West,7145,False
+CUST749,Customer 749,Corporate,Canada,New York,LDN,West,4554,True
+CUST750,Customer 750,Home Office,United States,Toronto,ON,East,4042,False
+CUST751,Customer 751,Home Office,United Kingdom,New York,NY,East,7499,False
+CUST752,Customer 752,Home Office,United States,London,NY,East,5469,False
+CUST753,Customer 753,Corporate,United States,Toronto,LDN,West,7165,True
+CUST754,Customer 754,Consumer,United States,London,ON,North,8012,False
+CUST755,Customer 755,Home Office,Canada,London,ON,North,6205,False
+CUST756,Customer 756,Consumer,Canada,New York,LDN,West,1116,False
+CUST757,Customer 757,Home Office,United States,London,NY,East,6641,False
+CUST758,Customer 758,Corporate,United States,Toronto,LDN,West,7308,False
+CUST759,Customer 759,Home Office,United States,Toronto,ON,West,4967,True
+CUST760,Customer 760,Corporate,United States,London,LDN,North,8420,False
+CUST761,Customer 761,Corporate,United States,London,LDN,North,8165,True
+CUST762,Customer 762,Consumer,United States,London,LDN,North,6938,True
+CUST763,Customer 763,Corporate,United Kingdom,Toronto,LDN,West,9311,False
+CUST764,Customer 764,Home Office,United Kingdom,London,ON,North,7375,True
+CUST765,Customer 765,Corporate,Canada,Toronto,LDN,North,7380,False
+CUST766,Customer 766,Consumer,Canada,London,LDN,East,4267,False
+CUST767,Customer 767,Home Office,United Kingdom,New York,ON,North,5932,False
+CUST768,Customer 768,Corporate,Canada,New York,LDN,West,1733,False
+CUST769,Customer 769,Consumer,United States,Toronto,ON,North,9927,False
+CUST770,Customer 770,Corporate,United States,New York,LDN,East,2357,False
+CUST771,Customer 771,Consumer,United Kingdom,London,LDN,North,4336,True
+CUST772,Customer 772,Consumer,Canada,Toronto,NY,West,5510,False
+CUST773,Customer 773,Consumer,Canada,Toronto,NY,East,4513,False
+CUST774,Customer 774,Corporate,Canada,New York,ON,North,2376,True
+CUST775,Customer 775,Corporate,United States,New York,NY,North,7251,False
+CUST776,Customer 776,Corporate,United States,London,LDN,North,5986,False
+CUST777,Customer 777,Consumer,United States,New York,NY,East,8421,False
+CUST778,Customer 778,Consumer,United States,London,ON,West,5698,False
+CUST779,Customer 779,Consumer,United Kingdom,Toronto,NY,West,7976,True
+CUST780,Customer 780,Home Office,United States,London,LDN,East,2313,False
+CUST781,Customer 781,Corporate,United Kingdom,Toronto,LDN,East,5258,False
+CUST782,Customer 782,Home Office,United States,New York,NY,West,1210,False
+CUST783,Customer 783,Home Office,United Kingdom,New York,NY,North,1463,True
+CUST784,Customer 784,Home Office,United Kingdom,New York,NY,East,5669,True
+CUST785,Customer 785,Corporate,United States,Toronto,LDN,West,3515,False
+CUST786,Customer 786,Consumer,Canada,Toronto,ON,East,3375,False
+CUST787,Customer 787,Home Office,United Kingdom,New York,NY,North,5588,False
+CUST788,Customer 788,Corporate,Canada,London,NY,West,1600,False
+CUST789,Customer 789,Corporate,United States,New York,NY,North,9909,False
+CUST790,Customer 790,Home Office,Canada,London,NY,North,5045,True
+CUST791,Customer 791,Consumer,United Kingdom,London,ON,West,5788,False
+CUST792,Customer 792,Home Office,United Kingdom,Toronto,ON,West,4680,False
+CUST793,Customer 793,Corporate,United Kingdom,London,ON,North,4687,False
+CUST794,Customer 794,Consumer,United States,New York,ON,East,1077,True
+CUST795,Customer 795,Consumer,United States,New York,LDN,East,7011,True
+CUST796,Customer 796,Home Office,United States,New York,ON,East,1548,False
+CUST797,Customer 797,Corporate,United Kingdom,London,LDN,East,4240,True
+CUST798,Customer 798,Corporate,United States,New York,NY,North,9330,False
+CUST799,Customer 799,Home Office,United Kingdom,New York,NY,East,8570,False
+CUST800,Customer 800,Corporate,Canada,New York,NY,East,7873,False
+CUST801,Customer 801,Consumer,United States,Toronto,NY,East,4226,False
+CUST802,Customer 802,Consumer,Canada,New York,NY,North,1850,False
+CUST803,Customer 803,Home Office,United Kingdom,New York,LDN,North,6926,True
+CUST804,Customer 804,Corporate,United States,New York,NY,East,4223,False
+CUST805,Customer 805,Home Office,United Kingdom,Toronto,LDN,North,8038,False
+CUST806,Customer 806,Corporate,United States,New York,ON,East,8450,True
+CUST807,Customer 807,Home Office,United States,London,NY,North,6401,False
+CUST808,Customer 808,Home Office,Canada,Toronto,NY,North,4198,False
+CUST809,Customer 809,Consumer,United States,New York,LDN,West,1479,True
+CUST810,Customer 810,Corporate,Canada,London,NY,East,7175,False
+CUST811,Customer 811,Consumer,United Kingdom,Toronto,ON,West,8172,False
+CUST812,Customer 812,Home Office,Canada,London,LDN,West,7602,False
+CUST813,Customer 813,Home Office,United States,Toronto,ON,East,5420,False
+CUST814,Customer 814,Consumer,Canada,London,ON,West,4232,False
+CUST815,Customer 815,Corporate,United States,Toronto,ON,East,6878,False
+CUST816,Customer 816,Home Office,United Kingdom,London,NY,North,4539,False
+CUST817,Customer 817,Corporate,United States,London,NY,North,2599,True
+CUST818,Customer 818,Home Office,Canada,London,ON,East,9841,False
+CUST819,Customer 819,Home Office,Canada,New York,LDN,North,2132,False
+CUST820,Customer 820,Corporate,United Kingdom,New York,ON,North,8288,False
+CUST821,Customer 821,Consumer,United Kingdom,New York,ON,West,1534,False
+CUST822,Customer 822,Corporate,Canada,Toronto,NY,North,9279,False
+CUST823,Customer 823,Corporate,United Kingdom,London,LDN,West,6831,True
+CUST824,Customer 824,Consumer,Canada,London,NY,East,5630,False
+CUST825,Customer 825,Home Office,United States,London,NY,North,8766,False
+CUST826,Customer 826,Home Office,United Kingdom,London,NY,North,2930,False
+CUST827,Customer 827,Home Office,Canada,London,ON,East,8113,True
+CUST828,Customer 828,Corporate,United States,London,NY,North,3735,False
+CUST829,Customer 829,Consumer,United Kingdom,London,ON,North,3741,False
+CUST830,Customer 830,Corporate,Canada,Toronto,NY,North,2222,False
+CUST831,Customer 831,Home Office,United States,Toronto,NY,West,7254,True
+CUST832,Customer 832,Home Office,United States,New York,LDN,East,2476,False
+CUST833,Customer 833,Corporate,United Kingdom,New York,LDN,North,6581,False
+CUST834,Customer 834,Home Office,Canada,Toronto,NY,East,8550,False
+CUST835,Customer 835,Consumer,United States,Toronto,LDN,North,6183,False
+CUST836,Customer 836,Consumer,United Kingdom,New York,NY,East,6764,False
+CUST837,Customer 837,Corporate,Canada,London,ON,East,3635,True
+CUST838,Customer 838,Consumer,United States,New York,NY,East,4396,False
+CUST839,Customer 839,Consumer,United States,London,ON,West,3599,True
+CUST840,Customer 840,Consumer,Canada,London,NY,West,2813,False
+CUST841,Customer 841,Home Office,United Kingdom,London,LDN,West,8405,False
+CUST842,Customer 842,Corporate,United Kingdom,Toronto,NY,East,4260,False
+CUST843,Customer 843,Consumer,United States,New York,LDN,West,5025,False
+CUST844,Customer 844,Consumer,Canada,Toronto,LDN,North,4806,False
+CUST845,Customer 845,Home Office,United States,Toronto,LDN,North,2175,False
+CUST846,Customer 846,Corporate,United Kingdom,London,NY,North,6953,False
+CUST847,Customer 847,Consumer,United Kingdom,New York,NY,North,4436,False
+CUST848,Customer 848,Home Office,United States,London,ON,North,9990,False
+CUST849,Customer 849,Corporate,United States,Toronto,NY,North,7484,True
+CUST850,Customer 850,Home Office,United States,Toronto,NY,West,6291,False
+CUST851,Customer 851,Consumer,United Kingdom,New York,NY,West,4256,False
+CUST852,Customer 852,Home Office,United States,New York,LDN,West,2577,False
+CUST853,Customer 853,Home Office,Canada,Toronto,ON,East,2403,False
+CUST854,Customer 854,Consumer,United States,London,ON,West,3466,False
+CUST855,Customer 855,Consumer,United Kingdom,London,LDN,East,9630,False
+CUST856,Customer 856,Corporate,Canada,New York,ON,East,1047,False
+CUST857,Customer 857,Consumer,United Kingdom,New York,LDN,East,2819,False
+CUST858,Customer 858,Home Office,Canada,London,ON,West,9830,False
+CUST859,Customer 859,Home Office,Canada,Toronto,ON,North,1506,False
+CUST860,Customer 860,Home Office,United States,London,LDN,West,3037,False
+CUST861,Customer 861,Consumer,United Kingdom,London,LDN,East,8748,False
+CUST862,Customer 862,Home Office,Canada,London,NY,East,7077,False
+CUST863,Customer 863,Home Office,United States,London,ON,North,8289,False
+CUST864,Customer 864,Home Office,United Kingdom,London,NY,North,2395,False
+CUST865,Customer 865,Consumer,United States,Toronto,ON,West,7583,True
+CUST866,Customer 866,Consumer,United States,Toronto,LDN,East,2790,False
+CUST867,Customer 867,Home Office,United Kingdom,Toronto,NY,East,4034,False
+CUST868,Customer 868,Home Office,United States,New York,NY,East,5504,False
+CUST869,Customer 869,Consumer,United Kingdom,New York,LDN,East,4923,False
+CUST870,Customer 870,Consumer,United Kingdom,London,ON,West,1984,True
+CUST871,Customer 871,Corporate,United States,London,ON,East,3828,False
+CUST872,Customer 872,Consumer,United States,Toronto,NY,North,6775,False
+CUST873,Customer 873,Consumer,United Kingdom,Toronto,LDN,West,4428,False
+CUST874,Customer 874,Consumer,Canada,Toronto,LDN,East,9898,False
+CUST875,Customer 875,Home Office,United States,London,ON,North,2485,False
+CUST876,Customer 876,Corporate,Canada,New York,ON,East,7062,False
+CUST877,Customer 877,Home Office,Canada,New York,NY,West,6211,False
+CUST878,Customer 878,Consumer,Canada,London,LDN,North,3351,False
+CUST879,Customer 879,Consumer,United States,New York,ON,East,6200,True
+CUST880,Customer 880,Corporate,United States,London,ON,North,8220,False
+CUST881,Customer 881,Corporate,Canada,London,NY,West,4499,False
+CUST882,Customer 882,Home Office,United States,Toronto,NY,West,6461,True
+CUST883,Customer 883,Home Office,United States,New York,ON,East,9974,False
+CUST884,Customer 884,Home Office,United Kingdom,London,NY,West,3415,False
+CUST885,Customer 885,Consumer,Canada,London,LDN,North,7326,True
+CUST886,Customer 886,Consumer,Canada,New York,NY,West,5452,False
+CUST887,Customer 887,Home Office,United Kingdom,New York,NY,West,2737,False
+CUST888,Customer 888,Consumer,United States,Toronto,ON,West,1688,False
+CUST889,Customer 889,Consumer,Canada,New York,ON,North,2025,True
+CUST890,Customer 890,Corporate,United States,Toronto,LDN,West,2843,False
+CUST891,Customer 891,Consumer,United Kingdom,Toronto,ON,West,8997,False
+CUST892,Customer 892,Corporate,United States,New York,LDN,North,1030,False
+CUST893,Customer 893,Consumer,United Kingdom,London,NY,East,1815,False
+CUST894,Customer 894,Corporate,United Kingdom,London,NY,North,6294,False
+CUST895,Customer 895,Corporate,Canada,Toronto,NY,East,1552,False
+CUST896,Customer 896,Corporate,Canada,New York,LDN,West,6619,False
+CUST897,Customer 897,Corporate,Canada,New York,ON,East,6697,False
+CUST898,Customer 898,Consumer,United Kingdom,New York,NY,North,5066,False
+CUST899,Customer 899,Home Office,Canada,Toronto,LDN,West,5476,False
+CUST900,Customer 900,Home Office,United States,New York,ON,East,7488,True
+CUST901,Customer 901,Home Office,United Kingdom,Toronto,ON,North,4925,False
+CUST902,Customer 902,Corporate,United Kingdom,Toronto,LDN,West,9434,False
+CUST903,Customer 903,Corporate,United Kingdom,London,NY,North,7822,False
+CUST904,Customer 904,Consumer,Canada,Toronto,ON,North,6414,False
+CUST905,Customer 905,Corporate,Canada,Toronto,ON,North,5204,False
+CUST906,Customer 906,Corporate,Canada,New York,NY,East,4100,False
+CUST907,Customer 907,Corporate,United Kingdom,London,NY,East,9569,False
+CUST908,Customer 908,Corporate,Canada,New York,LDN,North,5388,False
+CUST909,Customer 909,Home Office,United States,Toronto,ON,North,6108,False
+CUST910,Customer 910,Corporate,United States,New York,ON,East,1258,False
+CUST911,Customer 911,Corporate,Canada,Toronto,LDN,North,6502,False
+CUST912,Customer 912,Consumer,United States,New York,ON,West,7226,True
+CUST913,Customer 913,Corporate,Canada,New York,ON,North,8813,True
+CUST914,Customer 914,Corporate,United States,New York,LDN,North,8391,False
+CUST915,Customer 915,Home Office,United Kingdom,New York,ON,East,1078,True
+CUST916,Customer 916,Corporate,United Kingdom,London,NY,East,2098,True
+CUST917,Customer 917,Home Office,Canada,Toronto,NY,West,5294,False
+CUST918,Customer 918,Home Office,Canada,London,LDN,North,2032,False
+CUST919,Customer 919,Consumer,United States,Toronto,ON,East,6256,True
+CUST920,Customer 920,Consumer,United Kingdom,London,NY,West,7939,False
+CUST921,Customer 921,Home Office,United States,New York,ON,West,4469,False
+CUST922,Customer 922,Consumer,United Kingdom,London,NY,East,9374,False
+CUST923,Customer 923,Corporate,United Kingdom,Toronto,NY,East,4921,False
+CUST924,Customer 924,Home Office,United States,Toronto,LDN,East,4366,False
+CUST925,Customer 925,Home Office,United States,Toronto,NY,West,8182,False
+CUST926,Customer 926,Home Office,Canada,New York,ON,North,2692,False
+CUST927,Customer 927,Home Office,United Kingdom,Toronto,NY,North,4141,False
+CUST928,Customer 928,Home Office,Canada,New York,LDN,North,4802,False
+CUST929,Customer 929,Corporate,United Kingdom,London,ON,North,2184,True
+CUST930,Customer 930,Consumer,United Kingdom,Toronto,NY,West,6736,False
+CUST931,Customer 931,Consumer,Canada,Toronto,ON,East,8209,False
+CUST932,Customer 932,Home Office,Canada,Toronto,LDN,West,6237,False
+CUST933,Customer 933,Home Office,United Kingdom,New York,NY,East,8081,False
+CUST934,Customer 934,Home Office,Canada,London,LDN,East,1558,True
+CUST935,Customer 935,Home Office,United Kingdom,Toronto,NY,East,9389,False
+CUST936,Customer 936,Consumer,Canada,New York,ON,West,7386,False
+CUST937,Customer 937,Home Office,United States,London,ON,West,8983,True
+CUST938,Customer 938,Consumer,United States,London,LDN,North,3531,False
+CUST939,Customer 939,Corporate,Canada,London,LDN,East,8688,False
+CUST940,Customer 940,Corporate,United Kingdom,Toronto,NY,North,8106,False
+CUST941,Customer 941,Consumer,United Kingdom,Toronto,ON,North,6317,False
+CUST942,Customer 942,Home Office,United Kingdom,New York,NY,West,4532,True
+CUST943,Customer 943,Home Office,United States,London,NY,East,6860,False
+CUST944,Customer 944,Home Office,United States,London,NY,East,6361,False
+CUST945,Customer 945,Home Office,United States,New York,NY,North,6185,False
+CUST946,Customer 946,Consumer,United States,New York,LDN,West,8078,False
+CUST947,Customer 947,Corporate,Canada,London,LDN,North,2500,False
+CUST948,Customer 948,Home Office,United Kingdom,Toronto,ON,North,4795,False
+CUST949,Customer 949,Consumer,United States,Toronto,NY,East,3146,False
+CUST950,Customer 950,Home Office,United States,New York,NY,East,3348,False
+CUST951,Customer 951,Consumer,United States,Toronto,NY,North,8022,True
+CUST952,Customer 952,Home Office,United Kingdom,Toronto,ON,North,2297,False
+CUST953,Customer 953,Corporate,Canada,Toronto,NY,North,1109,False
+CUST954,Customer 954,Consumer,United States,Toronto,LDN,East,5175,False
+CUST955,Customer 955,Consumer,Canada,Toronto,NY,West,4956,False
+CUST956,Customer 956,Corporate,United Kingdom,New York,ON,North,8853,False
+CUST957,Customer 957,Home Office,United States,New York,LDN,East,3279,False
+CUST958,Customer 958,Corporate,Canada,New York,NY,North,4203,False
+CUST959,Customer 959,Consumer,United States,New York,LDN,West,6035,False
+CUST960,Customer 960,Consumer,Canada,Toronto,NY,East,7249,False
+CUST961,Customer 961,Consumer,Canada,New York,NY,North,8421,False
+CUST962,Customer 962,Consumer,United States,New York,LDN,North,6414,False
+CUST963,Customer 963,Home Office,United States,Toronto,NY,East,3103,False
+CUST964,Customer 964,Corporate,United States,Toronto,NY,East,4566,False
+CUST965,Customer 965,Corporate,United States,London,LDN,West,5019,False
+CUST966,Customer 966,Consumer,United Kingdom,Toronto,NY,North,2222,False
+CUST967,Customer 967,Home Office,Canada,London,NY,North,7626,True
+CUST968,Customer 968,Corporate,United Kingdom,London,ON,East,3629,False
+CUST969,Customer 969,Consumer,Canada,Toronto,LDN,East,3418,False
+CUST970,Customer 970,Corporate,United Kingdom,London,LDN,North,9547,True
+CUST971,Customer 971,Home Office,United States,London,LDN,North,5261,False
+CUST972,Customer 972,Consumer,United Kingdom,London,NY,West,6986,True
+CUST973,Customer 973,Consumer,United Kingdom,London,NY,East,8013,False
+CUST974,Customer 974,Consumer,Canada,London,ON,East,5634,False
+CUST975,Customer 975,Corporate,United States,Toronto,LDN,West,7609,False
+CUST976,Customer 976,Home Office,United States,London,NY,North,7722,False
+CUST977,Customer 977,Consumer,United Kingdom,New York,NY,West,6323,False
+CUST978,Customer 978,Consumer,Canada,Toronto,ON,North,7532,False
+CUST979,Customer 979,Consumer,Canada,Toronto,ON,East,4719,False
+CUST980,Customer 980,Corporate,United Kingdom,Toronto,ON,West,2815,False
+CUST981,Customer 981,Corporate,United Kingdom,New York,NY,East,5301,False
+CUST982,Customer 982,Home Office,Canada,New York,LDN,West,2967,False
+CUST983,Customer 983,Home Office,United Kingdom,Toronto,NY,East,5415,False
+CUST984,Customer 984,Consumer,United Kingdom,London,LDN,West,2265,True
+CUST985,Customer 985,Corporate,United Kingdom,Toronto,LDN,West,4751,True
+CUST986,Customer 986,Corporate,Canada,New York,LDN,East,6541,False
+CUST987,Customer 987,Home Office,Canada,Toronto,ON,East,5061,False
+CUST988,Customer 988,Consumer,United Kingdom,Toronto,LDN,West,8741,False
+CUST989,Customer 989,Home Office,Canada,Toronto,NY,West,4702,True
+CUST990,Customer 990,Home Office,United States,London,NY,East,4545,False
+CUST991,Customer 991,Consumer,United Kingdom,New York,ON,North,9070,False
+CUST992,Customer 992,Consumer,United Kingdom,Toronto,NY,East,6612,True
+CUST993,Customer 993,Consumer,United States,London,NY,North,2179,False
+CUST994,Customer 994,Corporate,Canada,Toronto,NY,North,7688,False
+CUST995,Customer 995,Home Office,United Kingdom,Toronto,ON,West,9435,True
+CUST996,Customer 996,Home Office,United States,London,ON,East,1948,False
+CUST997,Customer 997,Consumer,United Kingdom,New York,NY,East,5842,False
+CUST998,Customer 998,Corporate,United States,London,NY,West,1110,False
+CUST999,Customer 999,Consumer,Canada,London,NY,North,7474,False
